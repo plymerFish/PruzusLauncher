@@ -1,2 +1,11 @@
-# PruzusLauncher
-Minecraft game client for general use
+
+//
+
+[DISCORD](URL)
+[RELEASE](URL)
+[TELEGRAM](URL)
+[v1.0](URL)
+
+//
+
+#???
